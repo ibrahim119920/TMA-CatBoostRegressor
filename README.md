@@ -1,4 +1,6 @@
-# Prediksi Tinggi Muka Air dengan CatBoost
+# TMA-CatBoostRegressor
+
+Prediksi tinggi muka air dengan ensemble CatBoost.
 
 Pipeline notebook untuk memprediksi tinggi muka air (`tma_mdpl`) pada 30 pos pengamatan. Model memadukan data lingkungan, kalender, dan fitur jaringan sungai HydroRIVERS dalam ensemble `CatBoostRegressor` tanpa memakai lag target yang tidak tersedia pada horizon prediksi.
 
