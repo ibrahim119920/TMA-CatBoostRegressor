@@ -1,6 +1,7 @@
 # Project datasets and generated predictions
 /datasets/*
 !/datasets/.gitkeep
+/artifacts/
 /handoff/*
 !/handoff/*_manifest_correction.json
 /train.csv
